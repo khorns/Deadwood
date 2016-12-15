@@ -1,0 +1,29 @@
+Church-Dead Man-"...."-1
+Church-Crying Woman-"Oh, the humanity!"-2
+Bank-Flustered Teller-"Would you like a large bill, sir?"-3
+Bank-Suspicious Gentleman-"Can you be more specific?"-2
+Hotel-Faro Player-"Hit me!"-1
+Hotel-Sleeping Drunkard-"Zzzzzz... Whiskey!"-1
+Hotel-Australian Bartender-"What'll it be, mate?"-3
+Hotel-Falls from Balcony-"Arrrgghh!!"-2
+Jail-Prisoner in Cell-"Zzzzzzz... Whiskey!"-2
+Jail-Feller in Irons-"Ah kilt the wrong man!"-3
+Train Station-Dragged by Train-"Omgeezers!"-1
+Train Station-Crusty Prospector-"Aww, peaches!"-1
+Train Station-Preacher with Bag-"The Lord will provide."-2
+Train Station-Cyrus the Gunfighter-"Git to fightin' or git away!"-4
+General Store-Man in Overalls-"Looks like a storm's comin' in."-1
+General Store-Mister Keach-"Howdy, stranger."-3
+Ranch-Man Under Horse-"A little help here!"-3
+Ranch-Shot in Leg-"Ow! Me Leg!"-1
+Ranch-Saucy Fred-"That's what she said!"-2
+Secret Hideout-Clumsy Pit Fighter-"Hit me!"-1
+Secret Hideout-Thug with Knife-"Meet Suzy, my murderin' knife."-2
+Secret Hideout-Dangerous Tom-"There's two ways we can do this..."-3
+Secret Hideout-Penny, who is lost-"Oh, woe! For I am lost"-4
+Main Street-Railroad Worker-"I'm a steel_drivin' man"-1
+Main Street-Falls off Roof-"Aaaaiiiigggghh!"-2
+Main Street-Woman in Black Dress-"Well, I'll be!"-2
+Main Street-Mayor McGinty-"People of Deadwood!"-4
+Saloon-Woman in Red Dress-"Come up and see me!"-2
+Saloon-Reluctant Farmer-"I ain' so sure about that!"-1

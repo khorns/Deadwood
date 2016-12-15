@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Assign3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Assign3_jar</output-path>
+    <root id="archive" name="Assign3.jar">
+      <element id="module-output" name="Assign3" />
+      <element id="library" level="project" name="core" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/core.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
